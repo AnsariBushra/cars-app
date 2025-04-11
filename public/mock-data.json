@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry",
+    "brand": "Toyota",
+    "price": 25000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.eBWbzrLjSwXCa3eAlDqL8wHaEK?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 2,
+    "name": "Tesla Model 3",
+    "brand": "Tesla",
+    "price": 45000,
+    "fuel": "Electric",
+    "seats": 5,
+    "image": "https://cdn.motor1.com/images/mgl/qkZnAR/s1/model-3-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Honda Accord",
+    "brand": "Honda",
+    "price": 24000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.IdbV8r5v8Djdy8UHs6kFnAHaFj?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 4,
+    "name": "BMW 3 Series",
+    "brand": "BMW",
+    "price": 41000,
+    "fuel": "Diesel",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.duWVfgjl5GC9cG0YcRAi9AHaE7?w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+  },
+  {
+    "id": 5,
+    "name": "Audi A4",
+    "brand": "Audi",
+    "price": 43000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.PAGoKMjRzoi_f-5PpAYA5wHaFE?w=302&h=206&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+  },
+  {
+    "id": 6,
+    "name": "Mercedes-Benz C-Class",
+    "brand": "Mercedes-Benz",
+    "price": 45000,
+    "fuel": "Diesel",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.ESrOemK4cBsEV7v00AGQSgHaEo?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 7,
+    "name": "Hyundai Elantra",
+    "brand": "Hyundai",
+    "price": 21000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://wallpapercave.com/wp/wp4217005.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kia Optima",
+    "brand": "Kia",
+    "price": 23000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.K33iw-QWy1toz-tYIEg9qgHaE7?pid=ImgDet&w=185&h=123&c=7&dpr=1.3"
+  },
+  {
+    "id": 9,
+    "name": "Ford Fusion",
+    "brand": "Ford",
+    "price": 22000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.Nz66NkxigtihAdEbE4RIAAHaE7?w=306&h=203&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+  },
+  {
+    "id": 10,
+    "name": "Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "price": 23000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.8hJbTccXqLxGdc4spYatGgHaDA?w=350&h=141&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+  },
+  {
+    "id": 11,
+    "name": "Nissan Altima",
+    "brand": "Nissan",
+    "price": 24000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.Aj3d2O6g_qUmcbjo-GrAewHaE8?w=306&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+  },
+  {
+    "id": 12,
+    "name": "Volkswagen Passat",
+    "brand": "Volkswagen",
+    "price": 25000,
+    "fuel": "Diesel",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.TTaJ4QePkp0XdH2z2IavmgHaEK?w=333&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 13,
+    "name": "Mazda6",
+    "brand": "Mazda",
+    "price": 23000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.6pOgiJjB8P9y_suQZSybDQHaE7?w=276&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 14,
+    "name": "Subaru Legacy",
+    "brand": "Subaru",
+    "price": 24000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.j8D4Wvnj_rMgVUy66CKKlQHaFj?w=206&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 15,
+    "name": "Lexus ES",
+    "brand": "Lexus",
+    "price": 40000,
+    "fuel": "Hybrid",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.WjJzum049ksCXXR59GB-NgHaE8?w=600&h=400&rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 16,
+    "name": "Toyota Prius",
+    "brand": "Toyota",
+    "price": 26000,
+    "fuel": "Hybrid",
+    "seats": 5,
+    "image": "https://www.bing.com/th/id/OIP.hjEpqusOqPbTgqpx6nd7WQHaEK?w=247&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+  },
+  {
+    "id": 17,
+    "name": "Tesla Model S",
+    "brand": "Tesla",
+    "price": 75000,
+    "fuel": "Electric",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.M5C3YWY5kqwxOyFntpbEsgHaE6?w=232&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": 18,
+    "name": "Tesla Model Y",
+    "brand": "Tesla",
+    "price": 50000,
+    "fuel": "Electric",
+    "seats": 7,
+    "image": "https://mobilityportal.eu/wp-content/uploads/2023/07/Tesla-AVERE-France.webp"
+  },
+  {
+    "id": 19,
+    "name": "Ford Mustang Mach-E",
+    "brand": "Ford",
+    "price": 53000,
+    "fuel": "Electric",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.ANm4UNtBGA8BBpMIk5XOowHaE8?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 20,
+    "name": "Chevrolet Bolt",
+    "brand": "Chevrolet",
+    "price": 31000,
+    "fuel": "Electric",
+    "seats": 5,
+    "image": "https://cdn.vox-cdn.com/thumbor/iqVLYSQ740vdxQZZym-VKixw8zc=/cdn.vox-cdn.com/uploads/chorus_asset/file/7090841/jgolson_160909_1219_0073.0.0.jpg"
+  },
+  {
+    "id": 21,
+    "name": "BMW i4",
+    "brand": "BMW",
+    "price": 55000,
+    "fuel": "Electric",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.vpmsEdc2F_ZxZh2ppkbekgHaEK?w=1920&h=1080&rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 22,
+    "name": "Hyundai Ioniq 5",
+    "brand": "Hyundai",
+    "price": 45000,
+    "fuel": "Electric",
+    "seats": 5,
+    "image": "https://www.team-bhp.com/sites/default/files/styles/check_extra_large_for_review/public/20210223062647_Hyundai_Ioniq_5_2022_front_3.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Kia EV6",
+    "brand": "Kia",
+    "price": 46000,
+    "fuel": "Electric",
+    "seats": 5,
+    "image": "https://www.thedetroitbureau.com/wp-content/uploads/2021/03/2022-Kia-EV6-GT-front.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Nissan Leaf",
+    "brand": "Nissan",
+    "price": 32000,
+    "fuel": "Electric",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.qjDwrSB-76JwQRIdzop2mgHaEo?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 25,
+    "name": "Mini Cooper SE",
+    "brand": "Mini",
+    "price": 31000,
+    "fuel": "Electric",
+    "seats": 4,
+    "image": "https://www.topgear.com/sites/default/files/images/news-article/2021/07/e48ef4b51743210bc4f793c022b96d31/P90428585_highRes.jpg?w=1280&h=720"
+  },
+  {
+    "id": 26,
+    "name": "Porsche Taycan",
+    "brand": "Porsche",
+    "price": 90000,
+    "fuel": "Electric",
+    "seats": 4,
+    "image": "https://images.carandbike.com/car-images/gallery/porsche/taycan/exterior/porsche-taycan.jpg?v=2022-03-05"
+  },
+  {
+    "id": 27,
+    "name": "Honda Civic",
+    "brand": "Honda",
+    "price": 22000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://i.pinimg.com/originals/24/6f/42/246f42965592f19432199a31dad2d9da.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Dodge Charger",
+    "brand": "Dodge",
+    "price": 31000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://www.motortrend.com/uploads/sites/21/2016/03/1969-dodge-charger-dse-front.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Toyota Corolla",
+    "brand": "Toyota",
+    "price": 21000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://www.motortrend.com/uploads/sites/5/2020/06/2020-Toyota-Corolla-01.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Genesis G70",
+    "brand": "Genesis",
+    "price": 42000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.JVLw40UDQQTHiApaasPHegHaEK?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 31,
+    "name": "Volvo S60",
+    "brand": "Volvo",
+    "price": 41000,
+    "fuel": "Hybrid",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.0a82uOPWs2vSqKa26JdswQHaEK?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 32,
+    "name": "Alfa Romeo Giulia",
+    "brand": "Alfa Romeo",
+    "price": 43000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.kIkx2DmVnsXuweAmPfuquwHaE8?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 33,
+    "name": "Jaguar XE",
+    "brand": "Jaguar",
+    "price": 47000,
+    "fuel": "Diesel",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.0TGFtwioomPt-NjmJ9aScQHaEK?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 34,
+    "name": "Chrysler 300",
+    "brand": "Chrysler",
+    "price": 33000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.5pfpJ2MiGd8eStwoVmNdRgHaFj?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 35,
+    "name": "Peugeot 508",
+    "brand": "Peugeot",
+    "price": 35000,
+    "fuel": "Diesel",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.QDKuNZlYyEeNRYdXgG1ObwHaEK?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 36,
+    "name": "Skoda Superb",
+    "brand": "Skoda",
+    "price": 32000,
+    "fuel": "Diesel",
+    "seats": 5,
+    "image": "https://images3.alphacoders.com/102/thumb-1920-1026397.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Renault Talisman",
+    "brand": "Renault",
+    "price": 31000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://wallup.net/wp-content/uploads/2019/09/929381-renault-talisman-estate-wagon-cars-2016.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Citroën C5 X",
+    "brand": "Citroën",
+    "price": 30000,
+    "fuel": "Hybrid",
+    "seats": 5,
+    "image": "https://cdn.motor1.com/images/mgl/mZOre/s1/citroen-c5-x-2021.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Fiat Tipo",
+    "brand": "Fiat",
+    "price": 19000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://www.autoblog.it/app/uploads/2019/01/fiat-tipo-sport-01.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Seat Leon",
+    "brand": "SEAT",
+    "price": 22000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://parkers-images.bauersecure.com/gallery-image/pagefiles/194694/static-exterior/1752x1168/se002820.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Suzuki Ciaz",
+    "brand": "Suzuki",
+    "price": 18000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://imgd.aeplcdn.com/1280x720/cw/ec/26523/Maruti-Suzuki-Ciaz-Exterior-134032.jpg?wm=0&q=100"
+  },
+  {
+    "id": 42,
+    "name": "Geely Emgrand",
+    "brand": "Geely",
+    "price": 17000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://images.summitmedia-digital.com/topgear/images/2022/02/25/geely-emgrand-2022-main-1645767058.jpg"
+  },
+  {
+    "id": 43,
+    "name": "MG 5",
+    "brand": "MG",
+    "price": 16000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://fairwheels.com/wp-content/uploads/2021/07/2nd-generation-MG5-sedan-feature-image-582x400.jpg"
+  },
+  {
+    "id": 44,
+    "name": "BYD Seal",
+    "brand": "BYD",
+    "price": 35000,
+    "fuel": "Electric",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.KDimAYTh-fNTC6LqeCvFjgHaEQ?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 45,
+    "name": "Lucid Air",
+    "brand": "Lucid",
+    "price": 90000,
+    "fuel": "Electric",
+    "seats": 5,
+    "image": "https://st.arenaev.com/specs/lucid/lucid-air-sapphire-front2.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Polestar 2",
+    "brand": "Polestar",
+    "price": 60000,
+    "fuel": "Electric",
+    "seats": 5,
+    "image": "https://th.bing.com/th/id/OIP.deNegusaYqOu0uEvtzB_WwHaFF?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 47,
+    "name": "Rivian R1S",
+    "brand": "Rivian",
+    "price": 72000,
+    "fuel": "Electric",
+    "seats": 7,
+    "image": "https://topelectricsuv.com/wp-content/uploads/2022/03/2022-Rivian-R1S-front-1024x607.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Ford Focus",
+    "brand": "Ford",
+    "price": 20000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://st.motortrendenespanol.com/uploads/sites/45/2014/02/2015-Ford-Focus-hatchback-front-view.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Honda Insight",
+    "brand": "Honda",
+    "price": 25000,
+    "fuel": "Hybrid",
+    "seats": 5,
+    "image": "https://blogmedia.dealerfire.com/wp-content/uploads/sites/703/2018/07/2019-honda-insight-lunar-silver_o.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Toyota Avalon",
+    "brand": "Toyota",
+    "price": 37000,
+    "fuel": "Petrol",
+    "seats": 5,
+    "image": "https://theawesomer.com/photos/2018/11/2020_camry_avalon_trd_6.jpg"
+  }
+]

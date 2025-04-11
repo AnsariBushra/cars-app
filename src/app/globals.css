@@ -1,4 +1,8 @@
 @import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 
 :root {
   --background: #ffffff;
@@ -19,8 +23,43 @@
   }
 }
 
+html {
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: white;
+  color: black;
+}
+
+/* Dark mode styles */
+.dark body {
+  background-color: #1a202c; /* Example dark background */
+  color: white;
+}
+
+.bg-gray-300 {
+  background-color: #e0e0e0;
+}
+
+.dark .bg-gray-300 {
+  background-color: #4a5568; /* Example dark gray */
+}
+
+.dark button{
+  background: gray;
+}
+
+.text-black {
+  color: black;
+}
+
+.dark .text-black {
+  color: white;
 }
