@@ -57,7 +57,7 @@ export default function CarCard({ car, removable = false, onRemove }) {
         className={`mt-2 px-3 py-1 rounded cursor-pointer ${
           wishlisted
             ? "bg-blue-300 text-white hover:bg-blue-300"
-            : "bg-gray-200 dark:bg-black hover:bg-gray-400 dark:text-white"
+            : "bg-gray-400  hover:bg-gray-300"
         }`}
       >
         {wishlisted ? "Remove from Wishlist" : "Add to Wishlist"}

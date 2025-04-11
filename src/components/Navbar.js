@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import { Sun, Moon } from "lucide-react";
 import { motion } from "framer-motion";
 
@@ -41,15 +42,15 @@ export default function Navbar() {
         animate={{ scale: 1.2 }}
         className="flex items-center space-x-4"
       >
-        <a href="/" className="hover:underline text-black dark:text-white">
+        <Link href="/" className="hover:underline text-black dark:text-white">
           Home
-        </a>
-        <a
+        </Link>
+        <Link
           href="/wishlist"
           className="hover:underline text-black dark:text-white"
         >
           Wishlist
-        </a>
+        </Link>
 
         <motion.button
           whileHover={{ scale: 1.2 }}
