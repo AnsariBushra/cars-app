@@ -3,7 +3,7 @@
 A responsive car-themed landing page built with **HTML5**, **CSS3**, **Nextjs**, **Tailwind CSS** and **Framer Motion**. This project demonstrates a modern layout for automotive businesses, car rentals, or car showcase platforms.
 
 ## 🚀 Live Demo
-👉 [View Website](https://ansaribushra.github.io/cars-app/)
+👉https://ansaribushra.github.io/cars-app/
 
 ## 🛠 Tech Stack
 - HTML5
